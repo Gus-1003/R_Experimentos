@@ -20,5 +20,6 @@
       * UFPE = https://cin.ufpe.br/~lvc/Aula%2001%20R.pdf
     
 ## Videos / Canais do Youtube:
+      * Academia do R = https://www.youtube.com/channel/UCGf2GyMJ9AMlCI0AlxySUQA/videos
       * Fernando Haesbaert = https://www.youtube.com/watch?v=tdAQxPIlUy0&ab_channel=FernandoHaesbaert
       * MercelSantos = https://www.youtube.com/channel/UCO6x7sQurFTw0Su0vsexE5g
