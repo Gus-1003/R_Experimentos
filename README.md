@@ -17,12 +17,28 @@
       * Tem muitos pacotes (bibliotecas de funções) que podem ser usados para resolver 
       diferentes problemas
 
+## Pacotes mais Populares: - https://operdata.com.br/blog/tidyverse-os-pacotes-mais-usados-no-r/
+      * Geral: 
+           + readr = Importar dados
+           + tidyr = Limpeza de dados
+           + plyr = manipulação de vetores, listas e data.frames
+           + dplyr = manipulação de dados
+           + ggplot2 = Visualização de dados / Gráficos
+      
+      * Machine Learning:
+           + Caret = Padronização de comandos
+           + Keras = Deep Learning
+           + pROC = Curvas de ROC
+           + dummies = Criação de dummies e one hot encoding
+
 ## Fonte de Pesquisa: 
       * https://cran.r-project.org/doc/manuals/r-release/R-intro.html
 
 ## Fonte de Estudo: 
       * W3schools = https://www.w3schools.com/r/default.asp
       * UFPE = https://cin.ufpe.br/~lvc/Aula%2001%20R.pdf
+      * Livro = "R for Data Science" - https://r4ds.had.co.nz/introduction.html
+      * Livro = "R In Action" - http://www.cs.uni.edu/~jacobson/4772/week11/R_in_Action.pdf
     
 ## Videos / Canais do Youtube:
       * Academia do R = https://www.youtube.com/channel/UCGf2GyMJ9AMlCI0AlxySUQA/videos
